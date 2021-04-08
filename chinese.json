@@ -1,0 +1,158 @@
+[
+    {
+        "construction": "把/将+N+V+作",
+        "featured": false,
+        "image" : "graph1",
+        "translation": "regard...as...,consider...as...,treat...as...",
+        "description":"把某确定的事物认同为另一事物，或通过动作使某事物变化为在性质、特征上有等同关系的另一事物",
+        "example": [
+            "后来他们把悲剧讲作人生之道德律。",
+            "他们把人骂作猪。",
+            "她把头发分作两下。"
+        ]
+    },
+    {
+        "construction": "把/将+N+V+成",
+        "featured": false,
+        "image" : "graph2",
+        "translation": "regard...as...,consider...as...,treat...as...",
+        "description":"把某确定的事物认同为另一事物，或通过动作使某事物变化为在性质、特征上有等同关系的另一事物",
+        "example": [
+            "老师把我们当成自己的孩子。",
+            "他恨不得把八小时变成十六小时来使。",
+            "几个人把这个广搞成了一朵花。"
+        ]
+    },
+    {
+        "construction": "把/将+N+i",
+        "featured": false,
+        "image" : "graph3",
+        "translation": "Use idioms in Ba constructions",
+        "description":"VP是Idiom，这时的VP是一个熟语形式",
+        "example": [
+            "我把你这小蹄子！",
+            "把他千刀万剐方解我心头之恨! ",
+            "他最喜欢爬进画框，用本人把画像取而代之。"
+        ]
+    },
+    {
+        "construction": "把/将+N+V+M",
+        "featured": false,
+        "image" : "graph4",
+        "translation": "The number of times a behavior occurs",
+        "description":"M=动作的频率",
+        "example": [
+            "他把这道题研究了好几遍。",
+            "他把钱又数了一遍，交给了来人。",
+            "他按书上说的把零件擦洗了一遍。"
+        ]
+    },
+    {
+        "construction": "把/将+N+一+V",
+        "featured": false,
+        "image" : "graph5",
+        "translation": "Countinuous behavior",
+        "description":"一般都表示动作与某确定的事物发生联系，或者以某种方式发生联系，并不表示结果",
+        "example": [
+            "他把大衣一穿，帽子一戴，走了出去。",
+            "班长把手一挥，“出发！”",
+            "他匆忙地吃了饭，把筷子一放就往外面跑。"
+        ]
+    },
+    {
+        "construction": "把/将+N+V+着",
+        "featured": false,
+        "image" : "graph6",
+        "translation": "Countiunous behavior",
+        "description":" 一般都表示动作与某确定的事物发生联系，或者以某种方式发生联系，并不表示结果",
+        "example": [
+            "由于害怕，他把两眼紧闭着。",
+            "他把头扬着，显出不在乎的样子。",
+            "我把脸紧贴着靠垫。"
+        ]
+    },
+    {
+        "construction": "把/将+N+给+V+其他",
+        "featured": false,
+        "image" : "graph7",
+        "translation": "Things are going wrong quotations",
+        "description":"动词后代“了”的句子都有去除的意思，多数动词有违愿意，表示不如意的色彩",
+        "example": [
+            "一阵大风把树给刮倒了。",
+            "她把她的母亲给气死了。",
+            "我把小偷给放了。"
+        ]
+    },
+    {
+        "construction": "把/将+N+V+了",
+        "featured": false,
+        "image" : "graph8",
+        "translation": "Things are going wrong quotations",
+        "description":"“给”主要用于表示损害意义的动词前以加重语气，有不如意的色彩",
+        "example": [
+            "他把以前学过的生词都忘了。",
+            "我急了，把他打了。",
+            "我把地刨了。"
+        ]
+    },
+    {
+        "construction": "把/将+N+V+给+N2",
+        "featured": false,
+        "image" : "graph9",
+        "translation": "Use 把 to talk about things being put in places or someone",
+        "description":"表示某确定的事物因动作发生位置的移动或关系的转移",
+        "example": [
+            "请您把课程表交给他。",
+            "他把自己的足球票送给别人了。",
+            "她没有必要把作品卖给艺术商。"
+        ]
+    },
+    {
+        "construction": "把/将+N+V+到",
+        "featured": false,
+        "image" : "graph10",
+        "translation": "Use 把 to talk about things being put in places",
+        "description":"表示某确定的事物因动作发生位置的移动或关系的转移；N2=处所名词",
+        "example": [
+            "不要讲桌了，把它搬到外边去吧。",
+            "您可以不箱子放到卧铺下边而。",
+            "电子计算机把我们推到了21世纪。"
+        ]
+    },
+    {
+        "construction": "把/将+N+V+在+S",
+        "featured": false,
+        "image" : "graph11",
+        "translation": "Use 把 to talk about things being put in places",
+        "description":"表示某确定的事物因动作发生位置的移动或关系的转移；“V在”后S是处所名词",
+        "example": [
+            "您把旅行袋放在行李架上吧。",
+            "把课程表挂在哪儿呢？",
+            "司机把卡车停在路边。"
+        ]
+    },
+    {
+        "construction": "把/将+N+V+得",
+        "featured": false,
+        "image" : "graph12",
+        "translation": " Use a descriptive complement",
+        "description":"表示某确定的事物因动作发生某种变化，产生了某种结果",
+        "example": [
+            "大家把教室打扫得干干净净。",
+            "他已经把课文念得很熟了。",
+            "他把腰弯得很低。"
+        ]
+    },
+    {
+        "construction": "把/将+N+V+来/去",
+        "featured": false,
+        "image" : "graph13",
+        "translation": "Use a direction complement",
+        "description":"表示某确定的事物因动作发生某种变化，产生了某种结果；（RC）+来/去；来/去 ·（RC）+来/去 表示趋向补语",
+        "example": [
+            "老先生，您是不是把帽子摘下来。",
+            "我把你的东西先送去，再回家。",
+            "服务员把饭菜端来了。"
+        ]
+    }
+]
